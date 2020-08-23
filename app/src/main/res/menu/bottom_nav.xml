@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        app:showAsAction="always"
+        android:id="@+id/navigation_giaoviec"
+        android:icon="@drawable/ic_baseline_assignment_24"
+        android:title="Giao việc"/>
+    <item
+        app:showAsAction="always"
+        android:id="@+id/navigation_chamcong"
+        android:icon="@drawable/ic_baseline_fingerprint_24"
+        android:title="Chấm công"/>
+    <item
+        app:showAsAction="always"
+        android:id="@+id/navigation_nhanvien"
+        android:icon="@drawable/ic_baseline_how_to_reg_24"
+        android:title="Nhân viên"/>
+</menu>
